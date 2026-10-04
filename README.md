@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vetle.
 
-<!--
-**Marentius/Marentius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full stack developer based in Fredrikstad, Norway.**
 
-Here are some ideas to get you started:
+Currently working at [Visma Smartskill](https://www.visma.no/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Check out my open source project — FileConverter
+
+Free and open source. Convert images, documents, and PDFs locally. No account, no uploads.
+
+CLI and desktop app for Windows, macOS, and Linux. Images, Office docs, PDF merge/split, and OCR.
+
+[GitHub](https://github.com/Marentius/FileConverter) · [marentius.no](https://marentius.no/#fileconverter) · `npx @fileconverter/core`
+
+```bash
+# Convert an image
+npx @fileconverter/core convert -i photo.png -o out/ --to jpg
+
+# Word → PDF
+npx @fileconverter/core convert -i report.docx -o out/ --to pdf
+
+# OCR
+npx @fileconverter/core ocr -i scan.png -o result.txt
+```
+
+
+### Stack
+
+`TypeScript/Javascript` · `Node.js` · `React` · `Next.js` · `C#` · `.NET` · `SQL` · `Docker`
+### Links
+[marentius.no](https://marentius.no) · [FileConverter](https://github.com/Marentius/FileConverter) · [email](mailto:vetlenilseen@hotmail.com)
